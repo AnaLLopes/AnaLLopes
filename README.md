@@ -218,7 +218,7 @@
 
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## I´m Learning
 <img 

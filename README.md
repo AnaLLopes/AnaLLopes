@@ -197,7 +197,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 📊 Estatísticas
 

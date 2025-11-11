@@ -220,7 +220,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## I´m Learning
+## 📚 Estou aprendendo
 <img 
     align="left" 
     alt="AWS" 
@@ -240,7 +240,7 @@
 
 <br/>
 
-## Contacts:
+## 📱 Contato:
 <div>
 <a href="https://www.linkedin.com/in/ana-laura-lopes-38849b1b7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:analaura.slopes066@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
